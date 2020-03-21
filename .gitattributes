@@ -1,2 +1,2 @@
-# Set the default behavior, in case people don't have core.autocrlf set.
-* text=auto
+# Treat all files in this directory as text and change their line endings according to system expectations
+* text
