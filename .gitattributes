@@ -1,2 +1,2 @@
 # Treat all files in this directory as text and change their line endings according to system expectations
-* text
+*.sh text
